@@ -1,2 +1,2 @@
-ax=input().split()
-print(ax[0]+ax[1])
+c=input().split()
+print(c[0]+c[1])
